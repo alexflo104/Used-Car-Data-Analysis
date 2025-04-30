@@ -1,4 +1,4 @@
-# <p style="text-align: center;">Used Car Data Analysis Project</p>
+# Used Car Data Analysis Project
 
 Hello, this is my first data analysis project where I want to use skills I have learned like SQL and Tableau but also skills that I want to use for the first time like Python for Data Analysis and R.
 
