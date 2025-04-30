@@ -14,7 +14,7 @@ https://www.kaggle.com/datasets/asinow/car-price-dataset (not available anymore)
 
 Here below is a picture detailing each column and their datatype:
 
-![alt text](Images/Data_Model.png)
+![alt text](README_Images/Data_Model.png)
 
 ## SQL 
 
@@ -29,11 +29,11 @@ To find the most expensive cars in the dataset we first must retrieve the Brand,
 
 Query:
 
-![alt text](Images/Query_1.png)
+![alt text](README_Images/Query_1.png)
 
 Result:
 
-![alt text](Images/Result_1.png)
+![alt text](README_Images/Result_1.png)
    
 From the result we can determine that the top 5 cars that have a good average price are the Chevrolet Equinox, Volkswagen Tigan, Mercedes GLA, Chevrolet Impala, and Toyota Corola.
 
@@ -45,11 +45,11 @@ To make this query we will need the Brand, Model, count of number of cars, year,
 
 Query:
 
-![alt text](Images/Query_2.png)
+![alt text](README_Images/Query_2.png)
 
 Result:
 
-![alt text](Images/Result_2.png)
+![alt text](README_Images/Result_2.png)
 
  
 From the results above I can determine that based on the Audi A3 we can see that in some years a newer car can have a smaller average price than others. For example, in 2022 the average price is $10974 while the 2021 price is $12788. This means you could get a newer model car for less than a newer model.
@@ -62,11 +62,11 @@ When we want to find the average price of cars based on the year of the car, we 
 
 Query:
 
-![alt text](Images/Query_3.png)
+![alt text](README_Images/Query_3.png)
 
 Result:
 
-![alt text](Images/Result_3.png)
+![alt text](README_Images/Result_3.png)
 
 From the result  we can determine that the average price of a car based on the year of the model decreased each year in order from 2023 all the way to 2000. 
 
@@ -78,11 +78,11 @@ The transmission of a vehicle is important in an era where manual transmission a
 
 Query:
 
-![alt text](Images/Query_4.png)
+![alt text](README_Images/Query_4.png)
 
 Result:
 
-![alt text](Images/Result_4.png)
+![alt text](README_Images/Result_4.png)
 
  
 From the result table above, we can determine that the brand that has the highest average price of a car with automatic transmission is Toyota with Chevrolet not too far behind in second. Now when we want to see who has the lowest average, we can determine that Honda has the lowest price.
@@ -95,11 +95,11 @@ Some people when looking to purchase a vehicle like to stick to a specific brand
 
 Query:
 
-![alt text](Images/Query_5.png)
+![alt text](README_Images/Query_5.png)
 
 Result:
 
-![alt text](Images/Result_5.png)
+![alt text](README_Images/Result_5.png)
  
 From the results we can determine that Ford has the most cars in the dataset and Mercedes has the least number of cars in 1884.
 
@@ -111,11 +111,11 @@ Currently gasoline vehicles are slowly fading out as hybrid and electric vehicle
 
 Query:
 
-![alt text](Images/Query_6.png)
+![alt text](README_Images/Query_6.png)
 
 Result:
 
-![alt text](Images/Result_6.png)
+![alt text](README_Images/Result_6.png)
 
 From the results we can determine that in the dataset there are 5250 electric vehicles and 4820 gasoline (petrol) fuel type cars. So, you can tell that electric cars are being slowly rising as the years of the cars in the dataset range from 2000 – 2023.
 
@@ -127,11 +127,11 @@ Now that we know that electric vehicles are the majority of fuel type vehicles i
 
 Query:
 
-![alt text](Images/Query_7.png)
+![alt text](README_Images/Query_7.png)
 
 Result:
 
-![alt text](Images/Result_7.png)
+![alt text](README_Images/Result_7.png)
  
 From the results table I can determine that BMW has 558 which is the most electric vehicles in the dataset and Kia has the lowest at 488. Although the difference between the highest and lowest is only 70. This means that almost all Brands have a good distribution of electric vehicles in the dataset.
 
@@ -143,11 +143,11 @@ Now that we have seen the margin of electric cars between brands we should now s
 
 Query:
 
-![alt text](Images/Query_8.png)
+![alt text](README_Images/Query_8.png)
 
 Result:
 
-![alt text](Images/Result_8.png)
+![alt text](README_Images/Result_8.png)
  
 From the result table above, I can determine that consistently prices of electric vehicles based on the year go down as the year go down except in some years like 2023 and 2010. In these years the price is higher than the previous.
 
@@ -159,11 +159,11 @@ People when looking for a car see that the size of the car is an important facto
 
 Query:
 
-![alt text](Images/Query_9.png)
+![alt text](README_Images/Query_9.png)
 
 Result:
 
-![alt text](Images/Result_9.png)
+![alt text](README_Images/Result_9.png)
 
   
 From the dataset we can determine what type of brands they have and what type of cars. For example, for Audi we can determine that the majority of their cars are coupes and hatchback. 
@@ -176,11 +176,11 @@ To determine which car has the lowest mileage and has more than two owners we wi
 
 Query:
 
-![alt text](Images/Query_10.png)
+![alt text](README_Images/Query_10.png)
 
 Result:
 
-![alt text](Images/Result_10.png)
+![alt text](README_Images/Result_10.png)
  
 In the result table we can determine that in the dataset there is a 2006 Ford Explorer with 25 miles with an owner count of 2. I decided it was important to know the year of the car because the older the model with fewer miles the less it may cost but if you were looking for a car that is newer with fewer miles the more expensive it may be.
 
