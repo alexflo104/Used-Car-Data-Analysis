@@ -1,6 +1,6 @@
 # Used Car Data Analysis Project
 
-Hello, this is my first data analysis project where I want to use skills I have learned like SQL and Tableau but also skills that I want to use for the first time like Python for Data Analysis and R.
+Hello, this is my first data analysis project where I want to use skills I have learned like SQL, and PowerBI.
 
 The data I chose to use was used car data that I acquired from Kaggle.com. Used car data interested me because the automotive industry is something that piques my interest. I have always liked cars from how they look to watching them being raced on tracks. When I chose to do this project there were two interests, I wanted to combine cars and data analysis.
 
